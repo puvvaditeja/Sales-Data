@@ -18,7 +18,7 @@
 - Display the category and subcategory wise percentage change in profit from 2015 to 2016 for france?
 - Display the category and subcategory wise percentage change in revenue from 2015 to 2016 for france?
 
-- Dashboard Interaction with Tableau Public<a href="https://github.com/puvvaditeja/Sales-Data/blob/main/sales.png">View Dashboard</a>
+- Dashboard Interaction with Tableau Public<a href="https://public.tableau.com/views/Sales_Data_17416032671090/task-1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View Dashboard</a>
 
 ## Dashboard
 ![sales](https://github.com/user-attachments/assets/1daa19c4-02ed-4e72-a616-7e51972c64f7)
